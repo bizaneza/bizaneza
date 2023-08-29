@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features":[
+{"type":"Feature","geometry":{"type":"Point","coordinates":[30.093718929984675,-2.1452014020230195]},"properties":{"OBJECTID_1":1,"objectid":16,"name":"BUGESERA District Office","cod_distri":"0507","type":"District_Office","source":"RMLUA","capture":"N/A","globalid":"{07EEF50E-EE40-4617-B524-D1A16A6684F2}","created_us":null,"created_da":null,"last_edite":null,"last_edi_1":null}}
+]}
